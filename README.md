@@ -28,7 +28,7 @@ Welcome to the Cryptocurrency Advisor Chatbot project! This chatbot, named **Cry
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-advisor-chatbot.git
+   git clone https://github.com/chebby76/crypto-advisor-chatbot.git
    cd crypto-advisor-chatbot
    Install required libraries (if any):
 bash
