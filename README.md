@@ -43,7 +43,7 @@ Cryptonerd is a friendly rule-based chatbot that provides cryptocurrency investm
 ⚠️ This chatbot provides educational information only, not financial advice. Cryptocurrency investments are risky. Always conduct your own research before making investment decisions.
 
 ## Author
-Mwangi Chira
+Group 23
 
 ## License
 [MIT License] - Feel free to modify and use for educational purposes
